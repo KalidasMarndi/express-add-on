@@ -1,13 +1,13 @@
-# Bulk Edit: Adobe Express Add-on
+# Batch Edit: Adobe Express Add-on
 
-**Bulk Edit** is a professional-grade Adobe Express Add-on designed to eliminate the manual effort involved in high-volume asset management. It provides a centralized dashboard for bulk importing hundreds of images, applying consistent watermark branding, resizing multiple pages to social media presets (Instagram/Facebook), and batch exporting documents as high-quality PNGs or organized ZIP archives.
+**Batch Edit** is a professional-grade Adobe Express Add-on designed to eliminate the manual effort involved in high-volume asset management. It provides a centralized dashboard for Batch importing hundreds of images, applying consistent watermark branding, resizing multiple pages to social media presets (Instagram/Facebook), and batch exporting documents as high-quality PNGs or organized ZIP archives.
 
 ---
 
 ## Documentation
 
 ### 1. Tutorials
-**Getting Started with Bulk Edit**
+**Getting Started with Batch Edit**
 * **Installation**: Clone the repository and ensure you have the Adobe CC Web Add-on CLI installed. Run `npm install` to set up all necessary dependencies.
 * **Launch**: Start the development environment by running `npm start`. This will launch the add-on in your local Adobe Express environment.
 * **Batch Importing**: Drag and drop up to 250 JPG or PNG images into the "Import Images" card. The add-on will automatically generate a new page for every image uploaded.
@@ -16,7 +16,7 @@
 
 ### 2. How-to Guides
 * **How to Resize for Social Media**: 
-    1. Open the **Bulk Resize** dialog.
+    1. Open the **Batch Resize** dialog.
     2. Click on the **Instagram** (1080x1080) or **Facebook** (1200x630) preset cards to auto-fill dimensions.
     3. Alternatively, enter custom pixel values for Width and Height.
     4. Specify the page range (e.g., From 1 To 10) and click **Apply** to update the layout of those specific pages.
